@@ -1,7 +1,7 @@
 # Synthetic Reading of "Sultana's Dream"
 
 **Assignment 3 · Synthetic reading · Monsoon Semester 2026**
-Author: Siddhi Rashi Pandey 25MA0012 · Digital Humanities and Social Sciences
+Author: Siddhi Rashi 25MA0012 · Digital Humanities and Social Sciences
 
 **Abstract.** Rokeya Sakhawat Hossain's "Sultana's Dream" (1905) imagines a country where women run everything and men stay indoors. I used it to try out *synthetic reading*, the seven-step method from the class handout, in which a human reads part of a text, forms a research question, and then uses an LLM to collect evidence from the whole text. My question was: **how does the story reverse the gendered division of space, work and knowledge, and what does that reversal say about the purdah system it criticises?** A local LLM sorted the story into eight themes, a script counted them, and I read the counts through feminist spatial criticism and feminist standpoint theory.
 
