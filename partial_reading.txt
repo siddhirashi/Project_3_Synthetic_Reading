@@ -1,0 +1,38 @@
+Source: corpus/sultanas_dream.txt
+Total paragraphs: 140 | parts: 4 | share per part: 20% | mode: random | seed: 2026
+
+--- PART 1 of 4 (35 paragraphs, reading 7) ---
+[1.7] 'I am all right, thank you. Will you please come out and have a look at our garden?'
+[1.8] I looked again at the moon through the open window, and thought there was no harm in going out at that time. The men-servants outside were fast asleep just then, and I could have a pleasant walk with Sister Sara.
+[1.21] 'Do you like it?' asked Sister Sara. (I continued calling her 'Sister Sara,' and she kept calling me by my name).
+[1.29] 'Where are the men?' I asked her.
+[1.31] 'Pray let me know what you mean by "their proper places".'
+[1.33] 'Just as we are kept in the zenana?'
+[1.35] 'How funny,' I burst into a laugh. Sister Sara laughed too.
+
+--- PART 2 of 4 (35 paragraphs, reading 7) ---
+[2.1] 'But dear Sultana, how unfair it is to shut in the harmless women and let loose the men.'
+[2.3] 'Yes, it is not safe so long as there are men about the streets, nor is it so when a wild animal enters a marketplace.'
+[2.16] 'But would it be very easy to catch and put them inside the four walls?' said I. 'And even if this were done, would all their business – political and commercial – also go with them into the zenana?'
+[2.20] 'Do you know knitting and needle work?'
+[2.27] 'In two hours! How do you manage? In our land the officers, – magistrates, for instance – work seven hours daily.'
+[2.29] 'Certainly they do!'
+[2.32] 'Will you care to see our kitchen?' she asked me.
+
+--- PART 3 of 4 (35 paragraphs, reading 7) ---
+[3.1] 'How did you manage to gather and store up the sun-heat?' I asked her in amazement.
+[3.7] 'Really! Now I understand why there is no mud here!' said I. But I could not understand how it was possible to accumulate water in the pipes. She explained to me how it was done, but I was unable to understand her, as my scientific knowledge was very limited. However, she went on, 'When the other university came to know of this, they became exceedingly jealous and tried to do something more extraordinary still. They invented an instrument by which they could collect as much sun-heat as they wanted. And they kept the heat stored up to be distributed among others as required.
+[3.8] 'While the women were engaged in scientific research, the men of this country were busy increasing their military power. When they came to know that the female universities were able to draw water from the atmosphere and collect heat from the sun, they only laughed at the members of the universities and called the whole thing "a sentimental nightmare"!'
+[3.19] 'Well said, but tell me please, how it all actually happened. I am dying to know it!'
+[3.27] 'There was a dead silence for a few minutes. Her Royal Highness said again, "I must commit suicide if the land and my honour are lost."
+[3.29] 'The Queen thanked them heartily, and asked the Lady Principal to try her plan. The Lady Principal rose again and said, "before we go out the men must enter the zenanas. I make this prayer for the sake of purdah." "Yes, of course," replied Her Royal Highness.
+[3.32] 'The heat and light were too much for them to bear. They all ran away panic-stricken, not knowing in their bewilderment how to counteract that scorching heat. When they fled away leaving their guns and other ammunitions of war, they were burnt down by means of the same sun-heat. Since then no one has tried to invade our country any more.'
+
+--- PART 4 of 4 (35 paragraphs, reading 7) ---
+[4.9] 'Our fields are tilled by means of electricity, which supplies motive power for other hard work as well, and we employ it for our aerial conveyances too. We have no rail road nor any paved streets here.'
+[4.12] 'The idea is excellent. What is your chief food?'
+[4.14] 'How do you keep your country cool in hot weather? We regard the rainfall in summer as a blessing from heaven.'
+[4.21] 'Is an offender never forgiven?'
+[4.26] 'But ours is very large; a distant cousin is as sacred as a brother.'
+[4.30] My friend lowered the air-car by reversing the action of the machine, and when the car touched the ground the machine was stopped and we got out.
+[4.32] 'Halloo! You here!' cried the Queen addressing Sister Sara. I was introduced to Her Royal Highness and was received by her cordially without any ceremony.
