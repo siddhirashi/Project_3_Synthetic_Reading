@@ -114,13 +114,3 @@ The assignment asks for four things on GitHub: the corpus, the partially read li
 | Prompt | [`prompt.txt`](prompt.txt) |
 | Extracted themes | [`Theme_JSON.py`](Theme_JSON.py) |
 
-## Links for the website
-
-Replace `USERNAME` and `REPOSITORY` with the real names before submitting.
-
-| File | URL |
-|---|---|
-| Corpus | https://github.com/USERNAME/REPOSITORY/blob/main/corpus/sultanas_dream.txt |
-| Partial reading | https://github.com/USERNAME/REPOSITORY/blob/main/partial_reading.txt |
-| Prompt | https://github.com/USERNAME/REPOSITORY/blob/main/prompt.txt |
-| Extracted themes | https://github.com/USERNAME/REPOSITORY/blob/main/Theme_JSON.py |
